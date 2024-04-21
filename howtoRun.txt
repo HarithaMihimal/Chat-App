@@ -1,0 +1,2 @@
+fronend= npm run dev
+back= npm run server

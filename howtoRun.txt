@@ -1,8 +1,0 @@
-fronend= npm run dev
-back= npm run server
-
-
-
-
-openssl rand -base64 32
-8hsN1+B87YBPYuaqLkJBR7g3mP5m5xPWgg+Ds0Mqldw=
